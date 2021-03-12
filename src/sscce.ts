@@ -18,7 +18,7 @@ export async function run() {
     logQueryParameters: true,
     benchmark: true,
     define: {
-      timestamps: false // For less clutter in the SSCCE
+      timestamps: false // For less clutter in the SSCCE 
     }
   });
 
